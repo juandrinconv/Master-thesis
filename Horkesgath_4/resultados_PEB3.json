@@ -1,0 +1,84 @@
+{
+  "Funcion de ajuste": {
+    "best_model": "Exponencial",
+    "coeficientes": [
+      1.4838217701237415,
+      0.03222891834846942
+    ]
+  },
+  "Ecuacion de Jacob": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.10577777777774923,
+      0.0007851851851858716
+    ],
+    "valor_funcion_objetivo": [
+      2.389199948993337e-13,
+      -1.056932319443149e-13
+    ],
+    "Limites para L": {
+      "inferior": 0.0531226833816448,
+      "superior": 0.15950336636902637
+    },
+    "Limites para M": {
+      "inferior": 0.00077744991023677,
+      "superior": 0.0007931105088237409
+    }
+  },
+  "Ecuacion de Rorabaugh": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.12614910319077052,
+      7.347371846237509e-09,
+      4.816120316018459
+    ],
+    "valor_funcion_objetivo": [
+      0.0,
+      0.0,
+      1.7313419487331877e-16
+    ],
+    "Limites para L": {
+      "inferior": -0.023479819643953993,
+      "superior": 0.2639330612500292
+    },
+    "Limites para M": {
+      "inferior": -2.1545327428906803e-08,
+      "superior": 3.773100847757827e-08
+    },
+    "Limites para n": {
+      "inferior": 4.771304443517289,
+      "superior": 4.975042055071173
+    }
+  },
+  "Ecuacion propuesta": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.1463688883979863,
+      -0.0011251570883166746,
+      3.855216120163294e-06,
+      3.4623338472206506
+    ],
+    "valor_funcion_objetivo": [
+      0.0,
+      2.7974123455122054e-16,
+      1.7313419487331877e-16,
+      1.2544892933617588e-16
+    ],
+    "Limites para L": {
+      "inferior": -0.19025013220133846,
+      "superior": 0.4804791647510226
+    },
+    "Limites para M": {
+      "inferior": -0.006521707655322838,
+      "superior": 0.004278677758683172
+    },
+    "Limites para I": {
+      "inferior": -3.074968305690551e-06,
+      "superior": 1.0913225457915958e-05
+    },
+    "Limites para n": {
+      "inferior": 3.403135509733694,
+      "superior": 3.4994901776555865
+    }
+  }
+}

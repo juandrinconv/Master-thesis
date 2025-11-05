@@ -1,0 +1,87 @@
+{
+  "Funcion de ajuste": {
+    "best_model": "Doble Exponencial",
+    "coeficientes": [
+      5.2404827727588476e-15,
+      1.0954996939204047,
+      0.6154230771922116,
+      0.09492556661015615,
+      0.42753840115490743
+    ]
+  },
+  "Ecuacion de Jacob": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.2577043742050506,
+      -0.004078645445393614
+    ],
+    "valor_funcion_objetivo": [
+      -2.220446049250313e-16,
+      -8.881784197001252e-16
+    ],
+    "Limites para L": {
+      "inferior": 0.17302482971863495,
+      "superior": 0.3422970115941355
+    },
+    "Limites para M": {
+      "inferior": -0.004110921030412258,
+      "superior": -0.004045962035545199
+    }
+  },
+  "Ecuacion de Rorabaugh": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.20351092077785488,
+      5.924604637331154e-14,
+      9.496896418502748
+    ],
+    "valor_funcion_objetivo": [
+      0.10824696721946789,
+      -0.030491494210050967,
+      0.0001114135666485334
+    ],
+    "Limites para L": {
+      "inferior": -0.04996568791788432,
+      "superior": 0.4606061523253659
+    },
+    "Limites para M": {
+      "inferior": 5.924604637331154e-14,
+      "superior": 5.924604637331154e-14
+    },
+    "Limites para n": {
+      "inferior": 9.493549545142312,
+      "superior": 9.500139311696296
+    }
+  },
+  "Ecuacion propuesta": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.3509514010273522,
+      -0.011546337055384827,
+      3.7291520006266846e-14,
+      9.875742623010163
+    ],
+    "valor_funcion_objetivo": [
+      -0.17201787254236503,
+      0.07741393492081576,
+      -0.006199997254898639,
+      0.0006070918382750377
+    ],
+    "Limites para L": {
+      "inferior": -1.5767391366679857,
+      "superior": 2.3283412680296096
+    },
+    "Limites para M": {
+      "inferior": -0.08028963703617426,
+      "superior": 0.055710908291004474
+    },
+    "Limites para I": {
+      "inferior": 3.7291520006266846e-14,
+      "superior": 3.7291520006266846e-14
+    },
+    "Limites para n": {
+      "inferior": 9.352890669412778,
+      "superior": 10.073058432153514
+    }
+  }
+}

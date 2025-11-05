@@ -1,0 +1,85 @@
+{
+  "Funcion de ajuste": {
+    "best_model": "Cuadratico",
+    "coeficientes": [
+      7.715522700367301e-05,
+      0.019203034353725314,
+      -0.0028529474731685545
+    ]
+  },
+  "Ecuacion de Jacob": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.019820440841324193,
+      5.928253248374264e-05
+    ],
+    "valor_funcion_objetivo": [
+      2.6547763987139206e-11,
+      -7.163825088696285e-12
+    ],
+    "Limites para L": {
+      "inferior": 0.008098999108443163,
+      "superior": 0.031528115461622395
+    },
+    "Limites para M": {
+      "inferior": 5.8079348500988976e-05,
+      "superior": 6.043940230017721e-05
+    }
+  },
+  "Ecuacion de Rorabaugh": {
+    "metodo": "differential_evolution",
+    "coeficientes": [
+      -0.013088907775648417,
+      0.024298925869057797,
+      1.105296974935877
+    ],
+    "valor_funcion_objetivo": [
+      0.0001066035250860758,
+      -0.03848883062853841,
+      2.185732035274021e-07
+    ],
+    "Limites para L": {
+      "inferior": -0.1886689260315106,
+      "superior": 0.025178451006779894
+    },
+    "Limites para M": {
+      "inferior": 0.022455673612805527,
+      "superior": 0.11619530945738599
+    },
+    "Limites para n": {
+      "inferior": 0.6287896555678141,
+      "superior": 1.250646283991479
+    }
+  },
+  "Ecuacion propuesta": {
+    "metodo": "differential_evolution",
+    "coeficientes": [
+      0.017330957917589984,
+      6.600331037320828e-05,
+      0.0010583445935474778,
+      1.2304579021220654
+    ],
+    "valor_funcion_objetivo": [
+      4.861840263714612e-07,
+      -0.023907057053394222,
+      1.351288695451674e-11,
+      6.652879305658557e-11
+    ],
+    "Limites para L": {
+      "inferior": -0.015976892541829896,
+      "superior": 0.050036449896554674
+    },
+    "Limites para M": {
+      "inferior": -0.00032958979909308096,
+      "superior": 0.0004635694886471293
+    },
+    "Limites para I": {
+      "inferior": -0.009518340317214843,
+      "superior": 0.014299862600374988
+    },
+    "Limites para n": {
+      "inferior": 0.5853928062939822,
+      "superior": 1.5295675421016883
+    }
+  }
+}

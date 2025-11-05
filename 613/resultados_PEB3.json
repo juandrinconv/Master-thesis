@@ -1,0 +1,77 @@
+{
+  "Ecuacion de Jacob": {
+    "metodo": "least_squares",
+    "coeficientes": [
+      0.7045276590104582,
+      0.029144952003795337
+    ],
+    "valor_funcion_objetivo": [
+      3.633776890499263e-09,
+      -5.09156494743479e-10
+    ],
+    "Limites para L": {
+      "inferior": 0.21789580734951547,
+      "superior": 1.1887754170477614
+    },
+    "Limites para M": {
+      "inferior": 0.027767562994846885,
+      "superior": 0.030512353885218876
+    }
+  },
+  "Ecuacion de Rorabaugh": {
+    "metodo": "differential_evolution",
+    "coeficientes": [
+      0.01633467819216356,
+      0.7169168308933045,
+      1.0323659527436084
+    ],
+    "valor_funcion_objetivo": [
+      -7.627979910673766e-05,
+      0.014335085441484171,
+      2.1202110469145046e-09
+    ],
+    "Limites para L": {
+      "inferior": -0.4402823583131561,
+      "superior": 0.4740044554999995
+    },
+    "Limites para M": {
+      "inferior": 0.7137040960787475,
+      "superior": 0.7203600201412186
+    },
+    "Limites para n": {
+      "inferior": 1.0323360182976842,
+      "superior": 1.0323973415659609
+    }
+  },
+  "Ecuacion propuesta": {
+    "metodo": "differential_evolution",
+    "coeficientes": [
+      -0.7590279740250059,
+      -0.018515738063671794,
+      1.517044384298559,
+      1.0368507956387587
+    ],
+    "valor_funcion_objetivo": [
+      2.220446049250313e-16,
+      4.415659757031873e-15,
+      -0.009661563654435911,
+      0.0
+    ],
+    "Limites para L": {
+      "inferior": -1.5056651180447662,
+      "superior": 0.04743224647273406
+    },
+    "Limites para M": {
+      "inferior": -0.31357858345208633,
+      "superior": 0.2666348491285526
+    },
+    "Limites para I": {
+      "inferior": 0.9135992554318202,
+      "superior": 2.2657349232798967
+    },
+    "Limites para n": {
+      "inferior": 0.7505849701596007,
+      "superior": 1.4269818117560227
+    }
+  }
+}
